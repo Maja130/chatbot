@@ -1,9 +1,9 @@
 import streamlit as st
 from openai import OpenAI
 
-st.title("💬 Nein-Sager")
+st.title("💬 Nervensäge")
 st.write(
-    "Dieser Chatbot sagt Nein"
+    "Ich nerve mit Nein sagen!"
 )
 
 # API-Key abfragen
